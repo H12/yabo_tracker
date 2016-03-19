@@ -1,1 +1,5 @@
-# Gem for tracking home run landing locations by ballpark
+# Yabo Tracker
+This is a handy gem for grabbing mlb homerun data
+
+##Usage
+`gem install yabo_tracker`
