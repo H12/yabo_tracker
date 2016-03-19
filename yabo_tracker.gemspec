@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description = "Resource for accessing homerun data by ballpark"
   s.authors     = ["Henry Firth"]
   s.email       = 'henrynf12@gmail.com'
-  s.files       = ["lib/yabo_tracker.rb", "lib/yabo_tracker/homerun.rb"]
+  s.files       = ["lib/yabo_tracker.rb", "lib/yabo_tracker/homerun.rb", "lib/yabo_tracker/helpers.rb"]
   s.homepage    =
     'https://github.com/H12/yabo_tracker'
   s.license       = 'MIT'
